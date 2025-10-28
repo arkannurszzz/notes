@@ -37,6 +37,8 @@ dependencies:
   dio: ^5.9.0
   get: ^4.7.2
   flutter_dotenv: ^6.0.0
+  web_socket_channel: ^3.0.3
+  uses-material-design: true
 
 dev_dependencies:
   flutter_test:
